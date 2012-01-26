@@ -32,7 +32,7 @@
   </scm>  
 
     <artifactId>org.liveSense.datasource.jdbc.mysql</artifactId>
-    <version>1.0.0-5.1.14-SNAPSHOT</version>
+    <version>1.0.0-5.1.18-SNAPSHOT</version>
     <packaging>bundle</packaging>
 
     <name>liveSense Mysql JDBC driver for DataSource</name>
@@ -69,7 +69,7 @@
 		<dependency>
 		    <groupId>mysql</groupId>
 		    <artifactId>mysql-connector-java</artifactId>
-		    <version>5.1.14</version>
+		    <version>5.1.18</version>
 		</dependency>
 	</dependencies>
 </project>
